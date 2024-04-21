@@ -1,0 +1,78 @@
+body {
+  background-color: grey;
+}
+
+body .container .hello {
+  text-align: center;
+}
+
+body .container .hello h1 {
+  color: green;
+}
+
+body .container .hello h2 {
+  color: black;
+}
+
+body .container .form {
+  -webkit-box-flex: 6;
+      -ms-flex: 6;
+          flex: 6;
+}
+
+body .container form {
+  background-color: white;
+  width: 50%;
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  -webkit-box-shadow: 2px 2px whitesmoke;
+          box-shadow: 2px 2px whitesmoke;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 4rem;
+}
+
+body .container input {
+  padding: 15px 10px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  width: 95%;
+  outline-color: #72728d;
+  margin: auto;
+  font-size: 20px;
+}
+
+body .container .blue {
+  padding: 15px 10px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  width: 95%;
+  background-color: #6b6b83;
+  margin: auto;
+  font-size: 20px;
+  color: white;
+}
+
+body .container a {
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+body .container .green {
+  background-color: #2d0080;
+  font-size: 17px;
+  color: white;
+  padding: 9px 9px;
+  border-radius: 5px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  border: 2px solid green;
+}
+
+body .container .form h4 {
+  text-align: center;
+}
+/*# sourceMappingURL=lolz.css.map */
